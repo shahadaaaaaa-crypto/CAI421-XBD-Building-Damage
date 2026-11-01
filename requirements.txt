@@ -1,0 +1,10 @@
+numpy
+pandas
+Pillow
+Shapely
+scikit-learn
+matplotlib
+albumentations
+torch
+torchvision
+IPython
